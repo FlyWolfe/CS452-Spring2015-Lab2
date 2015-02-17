@@ -1,1 +1,7 @@
-name, date, description
+Mathew Sherry
+2-16-2015
+Using an event tracker, I was able to determine whether certain keys were pressed down or not. If they were, then I
+incremented the position of the vertices. I also added a vertex shader to change the colours of the shape.
+
+
+:P
